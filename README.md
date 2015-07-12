@@ -1,2 +1,2 @@
 # angular-sb
-AngularJS sandbox
+A sandbox for AngularJS
